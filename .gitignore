@@ -1,0 +1,6 @@
+# Claves de API: nunca se suben
+.env
+# Entorno virtual y cachés
+.venv/
+__pycache__/
+.ipynb_checkpoints/
